@@ -1,5 +1,5 @@
 const Discord = require("discord.js");
-const myid = ['707259159845797926']
+const myid = ['782351491221684274']
 const client = new Discord.Client();
 const client2 = new Discord.Client();
 const client3 = new Discord.Client();
